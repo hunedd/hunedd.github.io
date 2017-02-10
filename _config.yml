@@ -8,8 +8,7 @@
 # Site settings
 title:  Welcome to my website
 email: your-email@domain.com
-description: > 
-You can find me on IRC on freenode, usually in the arch linux channels, find me @hunedd
+description: > You can find me on IRC on freenode, usually in the arch linux channels, find me @hunedd
 I do not check emails frequently, but I will usually check it every once in a while, usually once every 3 days.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
